@@ -1,0 +1,391 @@
+2023-10-07T16:40:36,213: [listener] Watchman 4.9.4 <no build info set> starting up on Windows
+2023-10-07T16:40:36,389: [listener] failed to parse json from C:\Users\vboxuser\Mendix\IDESAM-main\deployment\tmp\watchman_state.json: unable to open C:\Users\vboxuser\Mendix\IDESAM-main\deployment\tmp\watchman_state.json: No such file or directory
+2023-10-07T16:40:36,408: [accept0] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,413: [accept1] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,414: [accept2] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,414: [accept3] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,417: [accept4] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,418: [accept5] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,420: [accept6] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,420: [accept7] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,421: [accept8] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,422: [accept9] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,423: [accept10] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,425: [accept11] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,428: [accept12] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,430: [accept13] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,430: [accept14] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,433: [accept15] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,434: [accept16] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,436: [accept17] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,438: [accept18] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,439: [accept19] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,447: [accept20] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,448: [accept21] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,451: [accept22] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,454: [accept23] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,456: [accept24] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,457: [accept25] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,459: [accept26] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,461: [accept27] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,461: [accept28] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,464: [accept29] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,465: [accept30] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:40:36,466: [accept31] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:41:01,939: [client=2:stm=1488290826112:pid=0] path C:/Users/vboxuser/Mendix/IDESAM-main is on filesystem type NTFS
+2023-10-07T16:41:01,945: [client=2:stm=1488290826112:pid=0] root C:/Users/vboxuser/Mendix/IDESAM-main using watcher mechanism win32 (auto was requested)
+2023-10-07T16:41:02,697: [io 1488290376416 C:/Users/vboxuser/Mendix/IDESAM-main] PERF: {"start_time": 1696707661.9485011, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 6040, "elapsed_time": 0.74902500000000005}
+2023-10-07T16:41:02,698: [io 1488290376416 C:/Users/vboxuser/Mendix/IDESAM-main] crawl complete
+2023-10-07T16:41:02,703: [client=2:stm=1488290826112:pid=0] path C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules is on filesystem type NTFS
+2023-10-07T16:41:02,712: [client=2:stm=1488290826112:pid=0] root C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules using watcher mechanism win32 (auto was requested)
+2023-10-07T16:41:07,988: [client=2:stm=1488290826112:pid=0] PERF: {"start_time": 1696707662.700212, "version": "4.9.4", "description": "dispatch_command:watch-project", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "args": ["watch-project", "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules"], "client": {"pid": 0}}, "pid": 6040, "elapsed_time": 5.2881640000000001}
+2023-10-07T16:41:07,988: [io 1488291411744 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] PERF: {"start_time": 1696707662.713212, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 6040, "elapsed_time": 5.2751640000000002}
+2023-10-07T16:41:07,988: [io 1488291411744 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] crawl complete
+2023-10-07T16:41:09,924: [client=2:stm=1488290826112:pid=0] PERF: {"start_time": 1696707667.990027, "version": "4.9.4", "description": "dispatch_command:query", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "args": ["query", "C:/Users/vboxuser/Mendix/IDESAM-main", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "glob_includedotfiles": true, "expression": ["allof", ["type", "f"], ["suffix", ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]]], "glob": ["deployment/native/**", "theme/**", "javascriptsource/**", "themesource/**"]}], "client": {"pid": 0}}, "pid": 6040, "elapsed_time": 1.934388}
+2023-10-07T16:41:09,988: [readchange C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] signalled
+2023-10-07T16:41:09,989: [client=2:stm=1488290826112:pid=0] PERF: {"start_time": 1696707669.972456, "version": "4.9.4", "description": "sync_to_now", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "sync_to_now": {"success": false, "reason": "root dir was removed or is inaccessible", "timeoutms": 60000}}, "pid": 6040, "elapsed_time": 0.017440000000000001}
+2023-10-07T16:41:10,001: [client=2:stm=1488290826112:pid=0] send_error_response: ["query", "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "expression": ["allof", ["type", "f"]], "suffix": ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]}], failed: query failed: synchronization failed: root dir was removed or is inaccessible
+2023-10-07T16:44:27,044: [client=12:stm=1488310595312:pid=0] path C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules is on filesystem type NTFS
+2023-10-07T16:44:27,059: [client=12:stm=1488310595312:pid=0] root C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules using watcher mechanism win32 (auto was requested)
+2023-10-07T16:44:28,190: [io 1488288528288 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] PERF: {"start_time": 1696707867.061132, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 6040, "elapsed_time": 1.129046}
+2023-10-07T16:44:28,190: [client=12:stm=1488310595312:pid=0] PERF: {"start_time": 1696707867.0419941, "version": "4.9.4", "description": "dispatch_command:watch-project", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "args": ["watch-project", "C:\\Program Files\\Mendix\\10.3.1.17746\\modeler\\tools\\node\\node_modules"], "client": {"pid": 0}}, "pid": 6040, "elapsed_time": 1.1481840000000001}
+2023-10-07T16:44:28,191: [io 1488288528288 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] crawl complete
+2023-10-07T16:45:36,189: [listener] Watchman 4.9.4 <no build info set> starting up on Windows
+2023-10-07T16:45:36,287: [listener] path C:/Users/vboxuser/Mendix/IDESAM-main is on filesystem type NTFS
+2023-10-07T16:45:36,303: [listener] root C:/Users/vboxuser/Mendix/IDESAM-main using watcher mechanism win32 (auto was requested)
+2023-10-07T16:45:36,330: [listener] path C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules is on filesystem type NTFS
+2023-10-07T16:45:36,347: [listener] root C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules using watcher mechanism win32 (auto was requested)
+2023-10-07T16:45:36,556: [accept0] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,583: [accept1] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,590: [accept2] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,616: [accept3] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,622: [accept4] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,629: [accept5] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,633: [accept6] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,640: [accept7] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,642: [accept8] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,652: [accept9] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,658: [accept10] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,671: [accept11] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,676: [accept12] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,679: [accept13] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,685: [accept14] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,690: [accept15] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,695: [accept16] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,698: [accept17] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,700: [accept18] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,711: [accept19] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,712: [accept20] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,731: [accept21] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,737: [accept22] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,752: [accept23] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,755: [accept24] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,764: [accept25] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,774: [accept26] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,795: [accept27] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,795: [accept28] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,834: [accept29] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,847: [accept30] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:36,849: [accept31] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T16:45:37,133: [io 2681413058976 C:/Users/vboxuser/Mendix/IDESAM-main] PERF: {"start_time": 1696707936.3388391, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 2416, "elapsed_time": 0.793937}
+2023-10-07T16:45:37,134: [io 2681413058976 C:/Users/vboxuser/Mendix/IDESAM-main] crawl complete
+2023-10-07T16:45:42,955: [io 2681413339472 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] PERF: {"start_time": 1696707936.5144379, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 2416, "elapsed_time": 6.4413119999999999}
+2023-10-07T16:45:42,956: [io 2681413339472 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] crawl complete
+2023-10-07T16:45:56,801: [client=2:stm=2681435308048:pid=0] PERF: {"start_time": 1696707950.587333, "version": "4.9.4", "description": "dispatch_command:query", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "args": ["query", "C:/Users/vboxuser/Mendix/IDESAM-main", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "glob_includedotfiles": true, "expression": ["allof", ["type", "f"], ["suffix", ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]]], "glob": ["deployment/native/**", "theme/**", "javascriptsource/**", "themesource/**"]}], "client": {"pid": 0}}, "pid": 2416, "elapsed_time": 6.214391}
+2023-10-07T16:45:56,884: [client=2:stm=2681435308048:pid=0] PERF: {"start_time": 1696707956.880527, "version": "4.9.4", "description": "sync_to_now", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "sync_to_now": {"success": false, "reason": "root dir was removed or is inaccessible", "timeoutms": 60000}}, "pid": 2416, "elapsed_time": 0.0033579999999999999}
+2023-10-07T16:45:56,885: [readchange C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] signalled
+2023-10-07T16:45:56,886: [client=2:stm=2681435308048:pid=0] send_error_response: ["query", "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "expression": ["allof", ["type", "f"]], "suffix": ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]}], failed: query failed: synchronization failed: root dir was removed or is inaccessible
+2023-10-07T16:48:41,186: [client=12:stm=2681432828640:pid=0] path C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules is on filesystem type NTFS
+2023-10-07T16:48:41,192: [client=12:stm=2681432828640:pid=0] root C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules using watcher mechanism win32 (auto was requested)
+2023-10-07T16:48:42,201: [client=12:stm=2681432828640:pid=0] PERF: {"start_time": 1696708121.183234, "version": "4.9.4", "description": "dispatch_command:watch-project", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "args": ["watch-project", "C:\\Program Files\\Mendix\\10.3.1.17746\\modeler\\tools\\node\\node_modules"], "client": {"pid": 0}}, "pid": 2416, "elapsed_time": 1.017879}
+2023-10-07T16:48:42,201: [io 2681413339472 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] PERF: {"start_time": 1696708121.195446, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 2416, "elapsed_time": 1.0056670000000001}
+2023-10-07T16:48:42,202: [io 2681413339472 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] crawl complete
+2023-10-07T17:16:54,221: [listener] Watchman 4.9.4 <no build info set> starting up on Windows
+2023-10-07T17:16:54,261: [listener] path C:/Users/vboxuser/Mendix/IDESAM-main is on filesystem type NTFS
+2023-10-07T17:16:54,274: [listener] root C:/Users/vboxuser/Mendix/IDESAM-main using watcher mechanism win32 (auto was requested)
+2023-10-07T17:16:54,308: [listener] path C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules is on filesystem type NTFS
+2023-10-07T17:16:54,338: [listener] root C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules using watcher mechanism win32 (auto was requested)
+2023-10-07T17:16:54,410: [accept0] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,431: [accept1] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,436: [accept2] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,443: [accept3] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,451: [accept4] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,459: [accept5] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,469: [accept6] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,479: [accept7] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,494: [accept8] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,505: [accept9] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,670: [accept10] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,829: [accept11] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,836: [accept12] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,855: [accept13] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,923: [accept14] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,944: [accept15] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,951: [accept16] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,973: [accept17] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,985: [accept18] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:54,994: [accept19] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:55,001: [accept20] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:55,018: [accept21] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:55,025: [accept22] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:55,031: [accept23] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:55,038: [accept24] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:55,048: [accept25] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:55,053: [accept26] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:55,074: [accept28] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:55,074: [accept27] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:55,086: [accept29] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:55,139: [accept30] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:55,150: [accept31] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-07T17:16:55,586: [io 2917571414736 C:/Users/vboxuser/Mendix/IDESAM-main] PERF: {"start_time": 1696709814.308682, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 3692, "elapsed_time": 1.275217}
+2023-10-07T17:16:55,587: [io 2917571414736 C:/Users/vboxuser/Mendix/IDESAM-main] crawl complete
+2023-10-07T17:17:04,431: [io 2917572545488 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] PERF: {"start_time": 1696709814.3426459, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 3692, "elapsed_time": 10.088499000000001}
+2023-10-07T17:17:04,431: [io 2917572545488 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] crawl complete
+2023-10-07T17:17:29,352: [client=2:stm=2917581311536:pid=0] PERF: {"start_time": 1696709829.5369821, "version": "4.9.4", "description": "dispatch_command:query", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "args": ["query", "C:/Users/vboxuser/Mendix/IDESAM-main", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "glob_includedotfiles": true, "expression": ["allof", ["type", "f"], ["suffix", ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]]], "glob": ["deployment/native/**", "theme/**", "javascriptsource/**", "themesource/**"]}], "client": {"pid": 0}}, "pid": 3692, "elapsed_time": 19.814264000000001}
+2023-10-07T17:17:29,442: [readchange C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] signalled
+2023-10-07T17:17:29,442: [client=2:stm=2917581311536:pid=0] PERF: {"start_time": 1696709849.4158089, "version": "4.9.4", "description": "sync_to_now", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "sync_to_now": {"success": false, "reason": "root dir was removed or is inaccessible", "timeoutms": 60000}}, "pid": 3692, "elapsed_time": 0.025332}
+2023-10-07T17:17:29,533: [client=2:stm=2917581311536:pid=0] send_error_response: ["query", "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "expression": ["allof", ["type", "f"]], "suffix": ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]}], failed: query failed: synchronization failed: root dir was removed or is inaccessible
+2023-10-07T17:20:38,678: [client=11:stm=2917591337136:pid=0] path C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules is on filesystem type NTFS
+2023-10-07T17:20:38,696: [client=11:stm=2917591337136:pid=0] root C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules using watcher mechanism win32 (auto was requested)
+2023-10-07T17:20:40,451: [io 2917572545488 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] PERF: {"start_time": 1696710038.699739, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 3692, "elapsed_time": 1.752032}
+2023-10-07T17:20:40,451: [client=11:stm=2917591337136:pid=0] PERF: {"start_time": 1696710038.674046, "version": "4.9.4", "description": "dispatch_command:watch-project", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "args": ["watch-project", "C:\\Program Files\\Mendix\\10.3.1.17746\\modeler\\tools\\node\\node_modules"], "client": {"pid": 0}}, "pid": 3692, "elapsed_time": 1.777725}
+2023-10-07T17:20:40,451: [io 2917572545488 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] crawl complete
+2023-10-13T11:50:46,041: [listener] Watchman 4.9.4 <no build info set> starting up on Windows
+2023-10-13T11:50:46,082: [listener] path C:/Users/vboxuser/Mendix/IDESAM-main is on filesystem type NTFS
+2023-10-13T11:50:46,089: [listener] root C:/Users/vboxuser/Mendix/IDESAM-main using watcher mechanism win32 (auto was requested)
+2023-10-13T11:50:46,129: [listener] path C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules is on filesystem type NTFS
+2023-10-13T11:50:46,142: [listener] root C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules using watcher mechanism win32 (auto was requested)
+2023-10-13T11:50:46,278: [accept0] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,291: [accept1] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,304: [accept2] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,389: [accept3] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,452: [accept4] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,553: [accept5] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,635: [accept6] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,761: [accept7] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,827: [accept8] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,854: [io 2293309676160 C:/Users/vboxuser/Mendix/IDESAM-main] PERF: {"start_time": 1697208646.1295421, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 2420, "elapsed_time": 0.72365999999999997}
+2023-10-13T11:50:46,854: [io 2293309676160 C:/Users/vboxuser/Mendix/IDESAM-main] crawl complete
+2023-10-13T11:50:46,866: [accept9] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,902: [accept10] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,957: [accept11] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,961: [accept12] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,966: [accept13] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,969: [accept14] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,971: [accept15] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,972: [accept16] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,973: [accept17] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,977: [accept18] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,988: [accept19] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:46,993: [accept20] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:47,007: [accept21] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:47,041: [accept22] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:47,083: [accept23] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:47,124: [accept24] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:47,127: [accept25] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:47,136: [accept26] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:47,169: [accept27] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:47,173: [accept28] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:47,188: [accept29] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:47,238: [accept30] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:47,259: [accept31] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T11:50:52,789: [io 2293310281904 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] PERF: {"start_time": 1697208646.1910009, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 2420, "elapsed_time": 6.5982940000000001}
+2023-10-13T11:50:52,789: [io 2293310281904 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] crawl complete
+2023-10-13T11:51:26,296: [client=2:stm=2293326807088:pid=0] PERF: {"start_time": 1697208676.4119799, "version": "4.9.4", "description": "dispatch_command:query", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "args": ["query", "C:/Users/vboxuser/Mendix/IDESAM-main", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "glob_includedotfiles": true, "expression": ["allof", ["type", "f"], ["suffix", ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]]], "glob": ["deployment/native/**", "theme/**", "javascriptsource/**", "themesource/**"]}], "client": {"pid": 0}}, "pid": 2420, "elapsed_time": 9.8848230000000008}
+2023-10-13T11:51:26,344: [readchange C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] signalled
+2023-10-13T11:51:26,345: [client=2:stm=2293326807088:pid=0] PERF: {"start_time": 1697208686.341749, "version": "4.9.4", "description": "sync_to_now", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "sync_to_now": {"success": false, "reason": "root dir was removed or is inaccessible", "timeoutms": 60000}}, "pid": 2420, "elapsed_time": 0.0040169999999999997}
+2023-10-13T11:51:26,357: [client=2:stm=2293326807088:pid=0] send_error_response: ["query", "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "expression": ["allof", ["type", "f"]], "suffix": ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]}], failed: query failed: synchronization failed: root dir was removed or is inaccessible
+2023-10-13T11:55:31,155: [client=11:stm=2293328644800:pid=0] path C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules is on filesystem type NTFS
+2023-10-13T11:55:31,166: [client=11:stm=2293328644800:pid=0] root C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules using watcher mechanism win32 (auto was requested)
+2023-10-13T11:55:32,352: [client=11:stm=2293328644800:pid=0] PERF: {"start_time": 1697208931.1543429, "version": "4.9.4", "description": "dispatch_command:watch-project", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "args": ["watch-project", "C:\\Program Files\\Mendix\\10.3.1.17746\\modeler\\tools\\node\\node_modules"], "client": {"pid": 0}}, "pid": 2420, "elapsed_time": 1.1980759999999999}
+2023-10-13T11:55:32,352: [io 2293310198896 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] PERF: {"start_time": 1697208931.168884, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 2420, "elapsed_time": 1.183535}
+2023-10-13T11:55:32,353: [io 2293310198896 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] crawl complete
+2023-10-13T12:07:05,414: [listener] Watchman 4.9.4 <no build info set> starting up on Windows
+2023-10-13T12:07:05,545: [listener] path C:/Users/vboxuser/Mendix/IDESAM-main is on filesystem type NTFS
+2023-10-13T12:07:05,546: [listener] root C:/Users/vboxuser/Mendix/IDESAM-main using watcher mechanism win32 (auto was requested)
+2023-10-13T12:07:05,554: [listener] path C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules is on filesystem type NTFS
+2023-10-13T12:07:05,558: [listener] root C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules using watcher mechanism win32 (auto was requested)
+2023-10-13T12:07:05,740: [accept0] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:05,740: [accept1] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:05,762: [accept2] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:05,798: [accept3] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:05,808: [accept4] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:05,808: [accept5] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:05,813: [accept6] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:05,836: [accept7] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,028: [accept8] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,107: [accept9] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,149: [accept10] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,149: [io 2417740286992 C:/Users/vboxuser/Mendix/IDESAM-main] PERF: {"start_time": 1697209625.558187, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 4992, "elapsed_time": 0.589862}
+2023-10-13T12:07:06,153: [io 2417740286992 C:/Users/vboxuser/Mendix/IDESAM-main] crawl complete
+2023-10-13T12:07:06,164: [accept11] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,179: [accept12] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,207: [accept13] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,211: [accept14] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,213: [accept15] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,214: [accept16] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,215: [accept17] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,216: [accept18] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,218: [accept19] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,218: [accept20] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,220: [accept21] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,223: [accept22] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,226: [accept23] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,227: [accept24] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,229: [accept25] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,244: [accept26] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,263: [accept27] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,283: [accept28] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,290: [accept29] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,300: [accept30] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:06,310: [accept31] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:07:11,488: [io 2417740562112 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] PERF: {"start_time": 1697209625.6382091, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 4992, "elapsed_time": 5.8499569999999999}
+2023-10-13T12:07:11,488: [io 2417740562112 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] crawl complete
+2023-10-13T12:07:25,151: [client=2:stm=2417743562368:pid=0] PERF: {"start_time": 1697209641.811686, "version": "4.9.4", "description": "dispatch_command:query", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "args": ["query", "C:/Users/vboxuser/Mendix/IDESAM-main", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "glob_includedotfiles": true, "expression": ["allof", ["type", "f"], ["suffix", ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]]], "glob": ["deployment/native/**", "theme/**", "javascriptsource/**", "themesource/**"]}], "client": {"pid": 0}}, "pid": 4992, "elapsed_time": 3.338959}
+2023-10-13T12:07:25,238: [client=2:stm=2417743562368:pid=0] PERF: {"start_time": 1697209645.236407, "version": "4.9.4", "description": "sync_to_now", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "sync_to_now": {"success": false, "reason": "root dir was removed or is inaccessible", "timeoutms": 60000}}, "pid": 4992, "elapsed_time": 0.0022520000000000001}
+2023-10-13T12:07:25,240: [readchange C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] signalled
+2023-10-13T12:07:25,241: [client=2:stm=2417743562368:pid=0] send_error_response: ["query", "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "expression": ["allof", ["type", "f"]], "suffix": ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]}], failed: query failed: synchronization failed: root dir was removed or is inaccessible
+2023-10-13T12:10:18,526: [client=12:stm=2417759235808:pid=0] path C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules is on filesystem type NTFS
+2023-10-13T12:10:18,536: [client=12:stm=2417759235808:pid=0] root C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules using watcher mechanism win32 (auto was requested)
+2023-10-13T12:10:19,433: [io 2417738048400 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] PERF: {"start_time": 1697209818.5380931, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 4992, "elapsed_time": 0.89534999999999998}
+2023-10-13T12:10:19,433: [io 2417738048400 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] crawl complete
+2023-10-13T12:20:23,714: [listener] Watchman 4.9.4 <no build info set> starting up on Windows
+2023-10-13T12:20:23,914: [listener] path C:/Users/vboxuser/Mendix/IDESAM-main is on filesystem type NTFS
+2023-10-13T12:20:23,921: [listener] root C:/Users/vboxuser/Mendix/IDESAM-main using watcher mechanism win32 (auto was requested)
+2023-10-13T12:20:23,947: [listener] path C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules is on filesystem type NTFS
+2023-10-13T12:20:23,957: [listener] root C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules using watcher mechanism win32 (auto was requested)
+2023-10-13T12:20:24,332: [accept0] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,453: [accept1] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,479: [io 2526625071248 C:/Users/vboxuser/Mendix/IDESAM-main] PERF: {"start_time": 1697210423.9470711, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 1676, "elapsed_time": 0.53207400000000005}
+2023-10-13T12:20:24,479: [io 2526625071248 C:/Users/vboxuser/Mendix/IDESAM-main] crawl complete
+2023-10-13T12:20:24,492: [accept2] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,508: [accept3] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,531: [accept4] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,620: [accept5] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,665: [accept6] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,715: [accept7] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,755: [accept8] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,782: [accept9] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,784: [accept10] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,785: [accept11] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,796: [accept12] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,798: [accept13] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,815: [accept14] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,817: [accept15] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,824: [accept16] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,827: [accept17] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,832: [accept18] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,886: [accept19] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:24,917: [accept20] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:25,038: [accept21] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:25,222: [accept22] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:25,268: [accept23] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:25,315: [accept24] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:25,381: [accept25] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:25,458: [accept26] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:25,460: [accept27] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:25,520: [accept28] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:25,697: [accept29] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:25,752: [accept30] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:25,800: [accept31] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T12:20:29,737: [io 2526625312256 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] PERF: {"start_time": 1697210424.2312119, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 1676, "elapsed_time": 5.5058679999999995}
+2023-10-13T12:20:29,737: [io 2526625312256 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] crawl complete
+2023-10-13T12:20:42,390: [client=2:stm=2526637109264:pid=0] PERF: {"start_time": 1697210439.663754, "version": "4.9.4", "description": "dispatch_command:query", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "args": ["query", "C:/Users/vboxuser/Mendix/IDESAM-main", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "glob_includedotfiles": true, "expression": ["allof", ["type", "f"], ["suffix", ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]]], "glob": ["deployment/native/**", "theme/**", "javascriptsource/**", "themesource/**"]}], "client": {"pid": 0}}, "pid": 1676, "elapsed_time": 2.7265619999999999}
+2023-10-13T12:20:42,476: [client=2:stm=2526637109264:pid=0] PERF: {"start_time": 1697210442.46668, "version": "4.9.4", "description": "sync_to_now", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "sync_to_now": {"success": false, "reason": "root dir was removed or is inaccessible", "timeoutms": 60000}}, "pid": 1676, "elapsed_time": 0.0087270000000000004}
+2023-10-13T12:20:42,479: [client=2:stm=2526637109264:pid=0] send_error_response: ["query", "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "expression": ["allof", ["type", "f"]], "suffix": ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]}], failed: query failed: synchronization failed: root dir was removed or is inaccessible
+2023-10-13T12:20:42,489: [readchange C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] signalled
+2023-10-13T13:07:43,257: [listener] Watchman 4.9.4 <no build info set> starting up on Windows
+2023-10-13T13:07:43,331: [listener] path C:/Users/vboxuser/Mendix/IDESAM-main is on filesystem type NTFS
+2023-10-13T13:07:43,340: [listener] root C:/Users/vboxuser/Mendix/IDESAM-main using watcher mechanism win32 (auto was requested)
+2023-10-13T13:07:43,347: [listener] path C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules is on filesystem type NTFS
+2023-10-13T13:07:43,358: [listener] root C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules using watcher mechanism win32 (auto was requested)
+2023-10-13T13:07:43,401: [accept0] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,402: [accept1] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,406: [accept2] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,421: [accept3] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,434: [accept4] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,440: [accept5] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,443: [accept6] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,446: [accept7] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,448: [accept8] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,450: [accept9] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,453: [accept10] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,455: [accept11] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,458: [accept12] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,468: [accept13] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,473: [accept14] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,477: [accept15] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,480: [accept16] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,487: [accept17] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,489: [accept18] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,490: [accept19] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,492: [accept20] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,496: [accept21] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,498: [accept22] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,503: [accept23] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,506: [accept24] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,509: [accept25] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,512: [accept26] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,517: [accept27] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,524: [accept28] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,528: [accept29] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,533: [accept30] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,538: [accept31] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:07:43,948: [io 2851281175808 C:/Users/vboxuser/Mendix/IDESAM-main] PERF: {"start_time": 1697213263.347327, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 1672, "elapsed_time": 0.58608499999999997}
+2023-10-13T13:07:43,951: [io 2851281175808 C:/Users/vboxuser/Mendix/IDESAM-main] crawl complete
+2023-10-13T13:07:50,259: [io 2851281389760 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] PERF: {"start_time": 1697213263.3631909, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 1672, "elapsed_time": 6.8951099999999999}
+2023-10-13T13:07:50,259: [io 2851281389760 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] crawl complete
+2023-10-13T13:07:58,683: [client=2:stm=2851302260784:pid=0] PERF: {"start_time": 1697213276.8479271, "version": "4.9.4", "description": "dispatch_command:query", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "args": ["query", "C:/Users/vboxuser/Mendix/IDESAM-main", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "glob_includedotfiles": true, "expression": ["allof", ["type", "f"], ["suffix", ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]]], "glob": ["deployment/native/**", "theme/**", "javascriptsource/**", "themesource/**"]}], "client": {"pid": 0}}, "pid": 1672, "elapsed_time": 1.8359619999999999}
+2023-10-13T13:07:58,735: [readchange C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] signalled
+2023-10-13T13:07:58,735: [client=2:stm=2851302260784:pid=0] PERF: {"start_time": 1697213278.7326579, "version": "4.9.4", "description": "sync_to_now", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "sync_to_now": {"success": false, "reason": "root dir was removed or is inaccessible", "timeoutms": 60000}}, "pid": 1672, "elapsed_time": 0.0026229999999999999}
+2023-10-13T13:07:58,766: [client=2:stm=2851302260784:pid=0] send_error_response: ["query", "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "expression": ["allof", ["type", "f"]], "suffix": ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]}], failed: query failed: synchronization failed: root dir was removed or is inaccessible
+2023-10-13T13:11:49,268: [client=8:stm=2851299550336:pid=0] path C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules is on filesystem type NTFS
+2023-10-13T13:11:49,285: [client=8:stm=2851299550336:pid=0] root C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules using watcher mechanism win32 (auto was requested)
+2023-10-13T13:11:50,874: [io 2851280183552 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] PERF: {"start_time": 1697213509.2947519, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 1672, "elapsed_time": 1.5792660000000001}
+2023-10-13T13:11:50,874: [client=8:stm=2851299550336:pid=0] PERF: {"start_time": 1697213509.264462, "version": "4.9.4", "description": "dispatch_command:watch-project", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "args": ["watch-project", "C:\\Program Files\\Mendix\\10.3.1.17746\\modeler\\tools\\node\\node_modules"], "client": {"pid": 0}}, "pid": 1672, "elapsed_time": 1.609556}
+2023-10-13T13:11:50,874: [io 2851280183552 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] crawl complete
+2023-10-13T13:40:22,595: [listener] Watchman 4.9.4 <no build info set> starting up on Windows
+2023-10-13T13:40:22,662: [listener] path C:/Users/vboxuser/Mendix/IDESAM-main is on filesystem type NTFS
+2023-10-13T13:40:22,699: [listener] root C:/Users/vboxuser/Mendix/IDESAM-main using watcher mechanism win32 (auto was requested)
+2023-10-13T13:40:22,711: [listener] path C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules is on filesystem type NTFS
+2023-10-13T13:40:22,733: [listener] root C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules using watcher mechanism win32 (auto was requested)
+2023-10-13T13:40:22,895: [accept0] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:22,937: [accept1] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:22,967: [accept2] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:23,028: [accept3] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:23,045: [accept4] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:23,105: [accept5] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:23,550: [accept6] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:23,605: [accept7] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:23,616: [accept8] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:23,632: [accept9] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:23,645: [accept10] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:23,651: [accept11] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:23,663: [accept12] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:23,756: [accept13] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:23,977: [accept14] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:24,090: [accept15] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:24,537: [accept16] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:24,653: [accept17] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:24,752: [accept18] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:24,805: [accept19] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:24,863: [accept20] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:24,884: [io 2005390001152 C:/Users/vboxuser/Mendix/IDESAM-main] PERF: {"start_time": 1697215222.710937, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 1472, "elapsed_time": 2.1723979999999998}
+2023-10-13T13:40:24,884: [io 2005390001152 C:/Users/vboxuser/Mendix/IDESAM-main] crawl complete
+2023-10-13T13:40:24,909: [accept21] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:24,962: [accept22] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:25,007: [accept23] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:25,017: [accept24] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:25,060: [accept25] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:25,089: [accept26] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:25,129: [accept27] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:25,279: [accept28] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:25,292: [accept29] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:25,293: [accept30] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:25,295: [accept31] waiting for pipe clients on \\.\pipe\watchman-vboxuser
+2023-10-13T13:40:31,684: [io 2005390366080 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] PERF: {"start_time": 1697215222.7714529, "version": "4.9.4", "description": "full-crawl", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}}, "pid": 1472, "elapsed_time": 8.9133060000000004}
+2023-10-13T13:40:31,684: [io 2005390366080 C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] crawl complete
+2023-10-13T13:40:49,659: [client=2:stm=2005412126736:pid=0] PERF: {"start_time": 1697215240.4909289, "version": "4.9.4", "description": "dispatch_command:query", "meta": {"root": {"path": "C:/Users/vboxuser/Mendix/IDESAM-main", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "args": ["query", "C:/Users/vboxuser/Mendix/IDESAM-main", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "glob_includedotfiles": true, "expression": ["allof", ["type", "f"], ["suffix", ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]]], "glob": ["deployment/native/**", "theme/**", "javascriptsource/**", "themesource/**"]}], "client": {"pid": 0}}, "pid": 1472, "elapsed_time": 9.1672259999999994}
+2023-10-13T13:40:49,728: [client=2:stm=2005412126736:pid=0] PERF: {"start_time": 1697215249.7237141, "version": "4.9.4", "description": "sync_to_now", "meta": {"root": {"path": "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", "watcher": "win32", "recrawl_count": 0, "case_sensitive": false}, "sync_to_now": {"success": false, "reason": "root dir was removed or is inaccessible", "timeoutms": 60000}}, "pid": 1472, "elapsed_time": 0.0037030000000000001}
+2023-10-13T13:40:49,727: [readchange C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules] signalled
+2023-10-13T13:40:49,767: [client=2:stm=2005412126736:pid=0] send_error_response: ["query", "C:/Program Files/Mendix/10.3.1.17746/modeler/tools/node/node_modules", {"fields": ["name", "exists", "mtime_ms", "size", "content.sha1hex"], "expression": ["allof", ["type", "f"]], "suffix": ["js", "jsx", "ts", "tsx", "cjs", "mjs", "json", "js_commonjs-exports", "js_commonjs-module", "bmp", "gif", "jpg", "jpeg", "png", "psd", "svg", "webp", "m4v", "mov", "mp4", "mpeg", "mpg", "webm", "aac", "aiff", "caf", "m4a", "mp3", "wav", "html", "pdf", "yaml", "yml", "otf", "ttf", "zip"]}], failed: query failed: synchronization failed: root dir was removed or is inaccessible
